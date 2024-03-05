@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript, VueJs**
 
-- 💬 Ask me about **HTML, CSS, VueJS, Python, Machine Learning, Data Science and Data Analysis**
+- 💬 Ask me about **HTML, CSS, JavaScript, VueJS, NuxtJS, Python, Machine Learning, Data Science and Data Analysis**
 
 - 📫 How to reach me **rohitbharmal123@gmail.com**
 
