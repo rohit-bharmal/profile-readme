@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohitbharmal3" target="blank"><img src="https://img.shields.io/twitter/follow/rohitbharmal3?logo=twitter&style=for-the-badge" alt="rohitbharmal3" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript, VueJs**
+- 🌱 I’m currently learning **Typescript, NuxtJs**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, VueJS, NuxtJS, Python, Machine Learning, Data Science and Data Analysis**
 
