@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rohit Bharmal</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*w1BTUZctqyEYJrldIqJXqg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit2601&label=Profile%20views&color=0e75b6&style=flat" alt="rohit2601" /> </p>
